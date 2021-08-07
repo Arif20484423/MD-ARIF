@@ -1,0 +1,133 @@
+a{
+  color: #11999E;
+  font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 30px;
+}
+a:hover{
+  color:#E0FFFF;
+
+}
+.top-container {
+
+  background-color: #E0FFFF;
+margin-bottom: 100px;
+
+}
+body {
+  margin: 0;
+  text-align: center;
+font-family: 'Merriweather', serif;
+
+color:#40514E;
+}
+
+h1 {
+  margin-top:0;
+  line-height: 2;
+padding-top: 90px;
+font-family: 'Sacramento', cursive;
+font-size: 5rem;
+color:#66BFBF;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+color:#66BFBF;
+font-weight: normal;
+}
+h3{
+  font-family: sans-serif;
+  color: #11999E;
+}
+hr{
+color: #EAF6F6;
+  margin: 100px auto;
+  width:10%;
+  border: dotted;
+border-width: 10px 0px 0px 0px;
+}
+
+
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.top-cloud{
+  position: absolute;
+  left:800px;
+  top: 50px;
+}
+.touch{
+  font-size: 20px;
+  font-weight: bold;
+
+}
+.code
+{
+
+
+  margin: 40px auto 60px auto;
+}
+.btn {
+  width: 20%;
+  margin: 20px auto 20px auto;
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.lastline{
+  font-size: 15px;
+  color: #E0FFFF;
+  margin:20px 0px;
+}
+.skill{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+.computer{
+  float:left;
+
+  margin-right: 30px;
+}
+.break{
+  margin-bottom: 100px;
+
+}
+.small{
+  width: 20%;
+  margin: 30px auto;
+
+}
+p{
+  line-height: 2;
+}
+.last{
+  background-color: #66BFBF;
+padding: 50px 0px 20px 0px;
+}
